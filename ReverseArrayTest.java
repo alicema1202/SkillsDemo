@@ -14,6 +14,6 @@ public class ReverseArrayTest {
         int[] expected = new int[] {1,5,4,3,2};
 
         assertArrayEquals(expected, fullList);
-    //this is a failing test!
+//now the test passes! let's check it 
     }
 }
